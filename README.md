@@ -1,6 +1,6 @@
 To run the app, launch
 ```
-./bin/app
+./app
 ```
 
 `-cred` : path to aws credentials & config,   "`./aws/`" - default, if not provided tries to use default EC2 IAM roles
